@@ -48,8 +48,7 @@ public:
 
 int main()
 {
-    Student s1("Bhavesh",20,"9284400216",101,"Computer Science"
-    );
+    Student s1("Vedant",18,"9975662361",42,"Computer Science");
 
     s1.display();
 
