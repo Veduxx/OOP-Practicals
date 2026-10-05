@@ -43,7 +43,7 @@ public:
 int main()
 {
     // Creating an employee object
-    Employee emp(101, "Bhavesh");
+    Employee emp(42, "Vedant");
 
     // Displaying employee details
     emp.display();
