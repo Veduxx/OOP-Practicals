@@ -31,7 +31,7 @@ class Books{
 
 int main(){
     Books b1;
-    b1.details(101, "Atomic Habit", 1499.99);
+    b1.details(01, "Physics", 399.99);
     
     cout<< "Book 1 Details"<<endl;
     b1.display();
@@ -40,7 +40,7 @@ int main(){
 
     cout<<"Book 2 Details";
     Books b2;
-    b2.details(102, "Psycology of Money", 1599.58);
+    b2.details(02, "Maths", 599.99);
     b2.display();
     return 0;
 }
